@@ -2,12 +2,12 @@
 Here is a playground to learn and test some basic java programming techniques.  
 I follow the book *Introduction to Java programming and data structures*
 
--[x] Chapter 1
--[x] Chapter 2
--[x] Chapter 3
--[ ] Chapter 4
--[ ] Chapter 5
--[ ] Chapter 6
+-[x] Chapter 1: Introduction
+-[x] Chapter 2: Elementary programming
+-[x] Chapter 3: Selections
+-[x] Chapter 4: Mathematical functions, characters and strings
+-[x] Chapter 5: Loops
+-[ ] Chapter 6: Methods
 -[ ] Chapter 7
 -[ ] Chapter 8
 -[ ] Chapter 9
