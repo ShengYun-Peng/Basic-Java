@@ -7,8 +7,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 3: Selections   
 - [x] Chapter 4: Mathematical functions, characters and strings  
 - [x] Chapter 5: Loops  
-- [ ] Chapter 6: Methods  
-- [ ] Chapter 7  
+- [x] Chapter 6: Methods  
+- [ ] Chapter 7: Single-dimensional array  
 - [ ] Chapter 8  
 - [ ] Chapter 9  
 - [ ] Chapter 10  
