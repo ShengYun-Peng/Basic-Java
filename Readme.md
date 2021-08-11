@@ -8,8 +8,12 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 4: Mathematical functions, characters and strings  
 - [x] Chapter 5: Loops  
 - [x] Chapter 6: Methods  
-- [ ] Chapter 7: Single-dimensional array  
-- [ ] Chapter 8  
+- [x] Chapter 7: Single-dimensional array  
+- [ ] Chapter 8: Multidimensional array
 - [ ] Chapter 9  
 - [ ] Chapter 10  
+- [ ] Chapter 11  
+- [ ] Chapter 12  
+- [ ] Chapter 13  
+
 
