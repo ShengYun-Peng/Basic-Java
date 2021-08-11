@@ -9,8 +9,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 5: Loops  
 - [x] Chapter 6: Methods  
 - [x] Chapter 7: Single-dimensional array  
-- [ ] Chapter 8: Multidimensional array
-- [ ] Chapter 9  
+- [x] Chapter 8: Multidimensional array
+- [ ] Chapter 9: Objects and classes
 - [ ] Chapter 10  
 - [ ] Chapter 11  
 - [ ] Chapter 12  
