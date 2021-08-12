@@ -15,5 +15,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [ ] Chapter 11  
 - [ ] Chapter 12  
 - [ ] Chapter 13  
+- [ ] Chapter 17  
+- [ ] Chapter 18  
+
 
 
