@@ -10,8 +10,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 6: Methods  
 - [x] Chapter 7: Single-dimensional array  
 - [x] Chapter 8: Multidimensional array
-- [ ] Chapter 9: Objects and classes
-- [ ] Chapter 10  
+- [x] Chapter 9: Objects and classes
+- [ ] Chapter 10: Object-oriented thinking 
 - [ ] Chapter 11  
 - [ ] Chapter 12  
 - [ ] Chapter 13  
