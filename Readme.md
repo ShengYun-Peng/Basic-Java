@@ -11,12 +11,13 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 7: Single-dimensional array  
 - [x] Chapter 8: Multidimensional array
 - [x] Chapter 9: Objects and classes
-- [ ] Chapter 10: Object-oriented thinking 
-- [ ] Chapter 11  
+- [x] Chapter 10: Object-oriented thinking 
+- [ ] Chapter 11: Inheritance and polymorphism 
 - [ ] Chapter 12  
 - [ ] Chapter 13  
 - [ ] Chapter 17  
-- [ ] Chapter 18  
+- [ ] Chapter 18   
+- [ ] Chapter 19  
 
 
 
