@@ -13,8 +13,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 9: Objects and classes
 - [x] Chapter 10: Object-oriented thinking 
 - [x] Chapter 11: Inheritance and polymorphism 
-- [ ] Chapter 12: Exception handling and text I/O
-- [ ] Chapter 13  
+- [x] Chapter 12: Exception handling and text I/O
+- [ ] Chapter 13: Abstract classes and interfaces
 - [ ] Chapter 17  
 - [ ] Chapter 18   
 - [ ] Chapter 19  
