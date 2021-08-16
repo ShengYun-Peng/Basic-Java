@@ -14,12 +14,13 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 10: Object-oriented thinking 
 - [x] Chapter 11: Inheritance and polymorphism 
 - [x] Chapter 12: Exception handling and text I/O
-- [ ] Chapter 13: Abstract classes and interfaces
-- [ ] Chapter 17  
+- [x] Chapter 13: Abstract classes and interfaces
+- [ ] Chapter 17: Binary I/O
 - [ ] Chapter 18   
 - [ ] Chapter 19  
 - [ ] Chapter 20  
-- [ ] Chapter 21
+- [ ] Chapter 21  
+- [ ] Chapter 22
 
 
 
