@@ -12,12 +12,15 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 8: Multidimensional array
 - [x] Chapter 9: Objects and classes
 - [x] Chapter 10: Object-oriented thinking 
-- [x] Chapter 11: Inheritance and polymorphism 
-- [x] Chapter 12: Exception handling and text I/O
-- [x] Chapter 13: Abstract classes and interfaces
-- [ ] Chapter 17: Binary I/O
-- [ ] Chapter 18   
-- [ ] Chapter 19  
+- [x] Chapter 11: Inheritance and polymorphism  
+- [x] Chapter 12: Exception handling and text I/O  
+- [x] Chapter 13: Abstract classes and interfaces  
+- [ ] Chapter 14: JavaFX basics  
+- [ ] Chapter 15: Event-driven programming and animations  
+- [ ] Chapter 16: JavaFX UI controls and multimedia  
+- [ ] Chapter 17: Binary I/O  
+- [x] Chapter 18: Recursion    
+- [ ] Chapter 19: Generics  
 - [ ] Chapter 20  
 - [ ] Chapter 21  
 - [ ] Chapter 22
