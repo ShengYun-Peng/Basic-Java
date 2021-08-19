@@ -20,8 +20,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [ ] Chapter 16: JavaFX UI controls and multimedia  
 - [ ] Chapter 17: Binary I/O  
 - [x] Chapter 18: Recursion    
-- [ ] Chapter 19: Generics  
-- [ ] Chapter 20  
+- [x] Chapter 19: Generics  
+- [ ] Chapter 20: Lists, stacks, queues, and priority queues   
 - [ ] Chapter 21  
 - [ ] Chapter 22
 
