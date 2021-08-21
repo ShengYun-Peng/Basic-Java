@@ -22,11 +22,12 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 18: Recursion    
 - [x] Chapter 19: Generics  
 - [x] Chapter 20: Lists, stacks, queues, and priority queues   
-- [ ] Chapter 21: Sets and maps
-- [ ] Chapter 22:  
+- [x] Chapter 21: Sets and maps
+- [ ] Chapter 22: Developing efficient algorithms  
 - [ ] Chapter 23:  
 - [ ] Chapter 24:  
 - [ ] Chapter 25:  
+- [ ] Chapter 26:  
 
 
 
