@@ -26,6 +26,7 @@ I follow the book *Introduction to Java programming and data structures*
 - [ ] Chapter 22:  
 - [ ] Chapter 23:  
 - [ ] Chapter 24:  
+- [ ] Chapter 25:  
 
 
 
