@@ -23,8 +23,8 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 19: Generics  
 - [x] Chapter 20: Lists, stacks, queues, and priority queues   
 - [x] Chapter 21: Sets and maps
-- [ ] Chapter 22: Developing efficient algorithms  
-- [ ] Chapter 23:  
+- [x] Chapter 22: Developing efficient algorithms  
+- [ ] Chapter 23: Sorting
 - [ ] Chapter 24:  
 - [ ] Chapter 25:  
 - [ ] Chapter 26:  
