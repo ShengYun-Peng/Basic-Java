@@ -24,10 +24,13 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 20: Lists, stacks, queues, and priority queues   
 - [x] Chapter 21: Sets and maps
 - [x] Chapter 22: Developing efficient algorithms  
-- [ ] Chapter 23: Sorting
-- [ ] Chapter 24:  
+- [x] Chapter 23: Sorting
+- [ ] Chapter 24: Implementing stacks, queues, and priority queues
 - [ ] Chapter 25:  
 - [ ] Chapter 26:  
+- [ ] Chapter 27:  
+- [ ] Chapter 28:  
+- [ ] Chapter 29:  
 
 
 
