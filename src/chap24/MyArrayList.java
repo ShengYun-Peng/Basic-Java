@@ -131,10 +131,10 @@ public class MyArrayList<E> implements MyList<E> {
 
     @Override
     public Iterator<E> iterator() {
-        return new ArrayListIterator<>();
+        return new ArrayListIterator();
     }
 
-    private class ArrayListIterator<E> implements Iterator<E> {
+    private class ArrayListIterator implements Iterator<E> {
         private int current = 0;
 
         @Override
