@@ -25,12 +25,13 @@ I follow the book *Introduction to Java programming and data structures*
 - [x] Chapter 21: Sets and maps
 - [x] Chapter 22: Developing efficient algorithms  
 - [x] Chapter 23: Sorting
-- [ ] Chapter 24: Implementing stacks, queues, and priority queues
-- [ ] Chapter 25:  
+- [x] Chapter 24: Implementing stacks, queues, and priority queues
+- [ ] Chapter 25: Binary search trees
 - [ ] Chapter 26:  
 - [ ] Chapter 27:  
 - [ ] Chapter 28:  
 - [ ] Chapter 29:  
+- [ ] Chapter 30:  
 
 
 
